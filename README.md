@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SteelCoder24
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning batch (DOS CMD)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: don't
 - 😄 Pronouns: him/he
